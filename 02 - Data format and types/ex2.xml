@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<personnes xmlns:mathml="http://www.w3.org/1998/Math/MathML">
+	<personne id="124">
+		<nom>Deneumostier</nom>
+		<prenom>Alexis</prenom>
+		<age>2</age>
+		<zip>3786</zip>
+	</personne>
+	<personne id="220">
+		<nom>Martin</nom>
+		<prenom>Valérie</prenom>
+		<age>38</age>
+		<zip>4343</zip>
+	</personne>
+	<personne id="23">
+		<nom>Deneumostier</nom>
+		<prenom>Joachim</prenom>
+		<age>37</age>
+		<zip>4271</zip>
+	</personne>
+	<personne id="66">
+		<nom>Etienne</nom>
+		<prenom>Cédric</prenom>
+		<age>36</age>
+		<zip>3845</zip>
+	</personne>
+	<personne id="500">
+		<nom>Moore</nom>
+		<prenom>Roger</prenom>
+		<age>80</age>
+		<zip>1245</zip>
+	</personne>
+</personnes>
